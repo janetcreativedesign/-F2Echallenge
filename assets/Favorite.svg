@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Favorite</title>
+    <desc>Created with Sketch.</desc>
+    <g id="FUNPLAY" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-all-tracks-" transform="translate(-223.000000, -618.000000)" fill="#FFFFFF">
+            <g id="Group-5" transform="translate(-1.000000, 611.000000)">
+                <path d="M231.498059,7 C227.686894,7 224.597333,10.2235498 224.597333,14.2 C224.597333,19 229.964565,25.4 237.632038,33 C245.299511,25.4 250.645751,19.0347581 250.666667,14.2347861 C250.666667,10.2235498 247.577182,7 243.766017,7 C241.095488,7 238.779266,8.58275281 237.632038,10.8982384 C236.48481,8.58275281 234.168588,7 231.498059,7 Z" id="Favorite"></path>
+            </g>
+        </g>
+    </g>
+</svg>
